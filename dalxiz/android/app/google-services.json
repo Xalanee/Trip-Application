@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606940498920",
+    "project_id": "dalxiz",
+    "storage_bucket": "dalxiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606940498920:android:77465cf772a8b0848bf25d",
+        "android_client_info": {
+          "package_name": "com.example.dalxiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606940498920-vshths5tk915fdtljggdsq2u59ss484e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl3brf3Hyu43oC9P0xu70kLIdyBnDWtb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606940498920-vshths5tk915fdtljggdsq2u59ss484e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
